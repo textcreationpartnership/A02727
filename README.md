@@ -35,65 +35,79 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The Messiah already come. Or Profes [sic] of Christianitie both out of the Scriptures, and auncient 
+
+1. TO THE HIGH AND MIGHTY PRINCE FREDERICK KING OF BOHEMIA, &c. And TO HIS ROYALL SONNE the most hopefull yong Prince FREDERICK HENRY.
+
+1. TO THE HIGH AND Mighty Lords, the States Generall of the vnited Prouinces of the Low-Countries. Also, TO THE HIGH AND Mighty Prince Maurice, Prince of Orange, &c. And To his noble Brother Prince Henrie: All happinesse.
+
+1. To the Reader.
+
 #####Body#####
 
-1. Gods Promise to Adam.
+1. THE MESSIAH ALREADIE COME.
 
-1. Gods Promise to Abraham.
+    _ Gods Promise to Adam.
 
-1. The Prophecie of Iaakob.
+    _ Gods Promise to Abraham.
 
-1. The Prophecie of Moses.
+    _ The Prophecie of Iaakob.
 
-1. The Prophecie of David.
+    _ The Prophecie of Moses.
 
-1. The Prophecie of Ieremie.
+    _ The Prophecie of David.
 
-1. The Prophecie of Ezechiel.
+    _ The Prophecie of Ieremie.
 
-1. The Prophecie of Isaie.
+    _ The Prophecie of Ezechiel.
 
-1. That the Messiah must be both God and Man.
+    _ The Prophecie of Isaie.
 
-1. That the Messiah must change the Law of Moses.
+    _ That the Messiah must be both God and Man.
 
-1. The tyme of his manyfestation with all other circumstances.
+    _ That the Messiah must change the Law of Moses.
 
-1. His linage or pedegree.
+    _ The tyme of his manyfestation with all other circumstances.
 
-1. His birth with the circumstances thereof.
+    _ His linage or pedegree.
 
-1. His preaching or doctrine.
+    _ His birth with the circumstances thereof.
 
-1. His life and conversation.
+    _ His preaching or doctrine.
 
-1. His myracles.
+    _ His life and conversation.
 
-1. The calling of his Apostles.
+    _ His myracles.
 
-1. His death and passion.
+    _ The calling of his Apostles.
 
-1. His Resurrection.
+    _ His death and passion.
 
-1. His Ascention.
+    _ His Resurrection.
 
-1. The sending of the Holy Ghost: with the first plantation & wonderfull increase of the Church.
+    _ His Ascention.
 
-1. The sinceritie of the Evangelistes.
+    _ The sending of the Holy Ghost: with the first plantation & wonderfull increase of the Church.
 
-1. The confession of Martyrs.
+    _ The sinceritie of the Evangelistes.
 
-1. The subjection of Spirits.
+    _ The confession of Martyrs.
 
-1. The punishment of enemies.
+    _ The subjection of Spirits.
 
-1. The fulfilling of Prophecies.
+    _ The punishment of enemies.
 
-1. All other particulars, foretold of the Messiah; see them fulfilled, as followeth. To wit.
+    _ The fulfilling of Prophecies.
+
+1. A COLLECTION DEMONSTRATIVE, OR Summe of the former proofes.
+
+    _ All other particulars, foretold of the Messiah; see them fulfilled, as followeth. To wit.
+
+1. To the forlorne, and distressed Ievves in Barbarie; And in them to all others now groaning under the heavie yoak of captivitie in what natiō soever; scattered, & dispersed throughout the vvorld: Grace, mercy, and peace, be multiplied; in Christ Iesus the true Messiah.
 
 #####Back#####
-The Messiah already come. Or Profes [sic] of Christianitie both out of the Scriptures, and auncient 
+
+1. Escapes.
+
 **Types of content**
 
   * There are 3 **verse** lines!
